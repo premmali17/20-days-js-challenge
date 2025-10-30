@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: black;
+    
+}
+
+.container{
+    margin-top: 30vh;
+    background-color: rgb(232, 225, 154);
+    border: solid white 2px;
+    border-radius: 10px;
+    padding: 15px;
+}

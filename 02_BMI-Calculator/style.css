@@ -1,0 +1,35 @@
+   body {
+      margin: 0;
+      height: 100vh; /* full viewport height */
+      display: flex;
+      justify-content:center; /* horizontal center */
+      align-items: center; /* vertical center */
+      background: #000000;
+      font-family: Arial, sans-serif;
+      color: white;
+    }
+
+
+
+
+
+.container{
+
+    background-color: rgb(111, 116, 114);
+    /* width: fit-content; */
+   padding: 30px;
+   border-radius: 25px;
+}
+
+    button {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      border: none;
+      border-radius: 8px;
+      background: #000000;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
