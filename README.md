@@ -5,7 +5,6 @@ This repo contains 20 small yet powerful JS projects I’m building to master **
 
 Each project is simple, interactive, and built using **HTML, CSS, and Vanilla JavaScript** only.
 
----
 
 ## 🗂️ Projects Completed
 
@@ -16,9 +15,14 @@ Each project is simple, interactive, and built using **HTML, CSS, and Vanilla Ja
 | 3 | ⏰ Digital Clock | [View Live](https://premmali17.github.io/20-days-js-challenge/03_Digital-Clock/) | [Code](./03_Digital-Clock) |
 | 4 | 🎯 Guess The Number | [View Live](https://premmali17.github.io/20-days-js-challenge/04_Guess-Number/) | [Code](./04_Guess-Number) |
 
-> *(More projects coming soon... stay tuned!)*
+| 5 | 🎯 Guess The Number | [View Live](https://premmali17.github.io/20-days-js-challenge/05_ToDo-list/) | [Code](./05_ToDo-list) |
+| 6 | 🎯 Unlimited-color | [View Live](https://premmali17.github.io/20-days-js-challenge/06_Unlimited-color/) | [Code](./06_Unlimited-color) |
+| 7 | 🎯 Quote-generator | [View Live](https://premmali17.github.io/20-days-js-challenge/07_Quote-generator/) | [Code](./07_Quote-generator) |
 
----
+
+
+ *(More projects coming soon... stay tuned!)*
+
 
 ## 🧠 Goals of This Challenge
 - Strengthen **core JavaScript** skills  
