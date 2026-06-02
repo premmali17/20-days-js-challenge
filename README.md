@@ -9,19 +9,30 @@ Each project is simple, interactive, and built using **HTML, CSS, and Vanilla Ja
 ## 🗂️ Projects Completed
 
 | Day | Project | Live Demo | Source Code |
-|----:|----------|------------|--------------|
-| 1 | 🎨 Color Changer | [View Live](https://premmali17.github.io/20-days-js-challenge/01_color-changer/) | [Code](./01_color-changer) |
-| 2 | ⚖️ BMI Calculator | [View Live](https://premmali17.github.io/20-days-js-challenge/02_BMI-Calculator/) | [Code](./02_BMI-Calculator) |
-| 3 | ⏰ Digital Clock | [View Live](https://premmali17.github.io/20-days-js-challenge/03_Digital-Clock/) | [Code](./03_Digital-Clock) |
-| 4 | 🎯 Guess The Number | [View Live](https://premmali17.github.io/20-days-js-challenge/04_Guess-Number/) | [Code](./04_Guess-Number) |
+|-----|---------|-----------|-------------|
+| 1 | 🎨 Color Changer | [View Live](#) | [Code](./01_color-changer) |
+| 2 | ⚖️ BMI Calculator | [View Live](#) | [Code](./02_BMI-Calculator) |
+| 3 | ⏰ Digital Clock | [View Live](#) | [Code](./03_Digital-Clock) |
+| 4 | 🎯 Guess Number | [View Live](#) | [Code](./04_Guess-Number) |
+| 5 | 📝 Todo List | [View Live](#) | [Code](./05_ToDo-list) |
+| 6 | 🌈 Unlimited Color | [View Live](#) | [Code](./06_Unlimited-color) |
+| 7 | 💬 Quote Generator | [View Live](#) | [Code](./07_Quote-generator) |
+| 8 | 🌦️ Weather App | [View Live](#) | [Code](./08_Weather-App) |
+| 9 | 🖼️ Image Filter Gallery | [View Live](#) | [Code](./09_image_filter-gallery) |
+| 10 | 🔐 Password Generator | [View Live](#) | [Code](./10_Password_Generator) |
+| 11 | 🧮 Calculator | [View Live](#) | [Code](./11_Calculator) |
+| 12 | ⏳ Countdown Timer | [View Live](#) | [Code](./12_Countdown_Timer) |
+| 13 | 📒 Notes App | [View Live](#) | [Code](./13_Notes_App) |
+| 14 | ❓ Quiz App | [View Live](#) | [Code](./14_Quiz_App) |
+| 15 | 💱 Currency Converter | [View Live](#) | [Code](./15_Currency_Converter) |
+| 16 | 🖼️ Image Slider | [View Live](#) | [Code](./16_Image_Slider) |
+| 17 | 🎬 Movie Search App | [View Live](#) | [Code](./17_Movie_Search) |
+| 18 | 💰 Expense Tracker | [View Live](#) | [Code](./18_Expense_Tracker) |
+| 19 | 🐙 GitHub Profile Finder | [View Live](#) | [Code](./19_GitHub_Profile_Finder) |
+| 20 | 📋 Kanban Board | [View Live](#) | [Code](./20_Kanban_Board) |
 
-| 5 | 🎯 Guess The Number | [View Live](https://premmali17.github.io/20-days-js-challenge/05_ToDo-list/) | [Code](./05_ToDo-list) |
-| 6 | 🎯 Unlimited-color | [View Live](https://premmali17.github.io/20-days-js-challenge/06_Unlimited-color/) | [Code](./06_Unlimited-color) |
-| 7 | 🎯 Quote-generator | [View Live](https://premmali17.github.io/20-days-js-challenge/07_Quote-generator/) | [Code](./07_Quote-generator) |
 
 
-
- *(More projects coming soon... stay tuned!)*
 
 
 ## 🧠 Goals of This Challenge
